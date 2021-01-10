@@ -1,7 +1,7 @@
 ### Hi There👋
 
 <p align="center">
-<div width><p><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp;</p>🌱 I’m currently learning AI Development<br>⚡ I Wanna be a AI Engineer, Data Scientist</div>
+<div width><p><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp;</p>🌱 I’m currently learning AI Development<br>⚡ I Wanna be AI Engineer, Data Scientist</div>
 
 <!--
 **Supreme-YS/Supreme-YS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
