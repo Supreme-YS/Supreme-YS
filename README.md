@@ -1,7 +1,7 @@
 ### Hi There👋
 
 <p align="center">
-<div width>🌱 I’m currently learning AI Development<br>⚡ I will be a Supreme Data Handling Master<br>📫 How to reach me: https://supreme-ys.tistory.com/ </div>
+<div width>🌱 I’m currently learning AI Development<br>⚡ I will be a Supreme Data Handling Master<br>📫 Need more details : https://supreme-ys.tistory.com/ </div>
 
 <!--
 **Supreme-YS/Supreme-YS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
