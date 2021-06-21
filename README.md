@@ -3,7 +3,8 @@
   🌱 I’m currently learning Back-End Development.
   <br>⚡ I will be Supreme Full-Stack Developer and Data-Scientist
   <br>💙 I'm interesting in Java Spring Development
-  <br>📫 Need more details : https://supreme-ys.tistory.com/</p>
+  <br>📫 Tistory Blog : https://supreme-ys.tistory.com
+  <br>:hamster: GitHub Blog : https://supreme-ys.github.io
 
 ![Youngseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Supreme-YS&theme=dark&show_icons=true)
 
