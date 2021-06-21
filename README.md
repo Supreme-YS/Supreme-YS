@@ -6,3 +6,8 @@ Today Visitor Count : [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.
   <br>⚡ I will be Supreme Full-Stack Developer and Data-Scientist
   <br>💙 I'm interesting in Java Spring Development
   <br>📫 Need more details : https://supreme-ys.tistory.com/</p>
+  
+![Supreme-YS's GitHub stats](https://github-readme-stats.vercel.app/api?username=Supreme-YS&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supreme-YS&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
