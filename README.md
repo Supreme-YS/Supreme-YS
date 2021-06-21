@@ -2,7 +2,7 @@
 <p align="left">
   🌱 I’m currently learning Back-End Development.
   <br>⚡ I will be Supreme Full-Stack Developer and Data-Scientist
-  <br>💙 I'm interesting in Java Spring Development
+  <br>💙 I'm interested in Java Spring Development
   <br>📫 Tistory Blog : https://supreme-ys.tistory.com
   <br>:hamster: GitHub Blog : https://supreme-ys.github.io
 
