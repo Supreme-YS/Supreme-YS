@@ -1,4 +1,5 @@
-### Hi There. I'm Youngseok Jacob Sim👋
+### Hi There. I'm Youngseok Sim <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+<br>
 非 전공자로 시작했지만, Be 전공자의 지식을 갖추고, BE(BackEnd) 전문가로의 성장을 지향합니다.
 <!-- ![Youngseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Supreme-YS&theme=dark&show_icons=true) -->
 <!-- 
