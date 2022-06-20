@@ -1,4 +1,5 @@
-### Hi There. I'm Youngseok Sim <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="1px"> 
+### Hi There. I'm Youngseok Sim 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> 
 <!-- ![Youngseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Supreme-YS&theme=dark&show_icons=true) -->
 <!-- 
 #### :gift_heart: Career
